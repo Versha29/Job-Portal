@@ -1,0 +1,248 @@
+html
+{
+    border: 0px;
+    margin: 0px;
+
+}
+
+.col-md-1 ,.col-md-2,.col-md-3,.col-md-4,.col-md-5,.col-md-6,.col-md-7,.col-md-8,.col-md-9,.col-md-10,.col-md-11,.col-md-12
+{
+
+    padding: 10px 10px;
+}
+
+.hyperlinks_design
+{
+    color: #000066;
+    text-decoration: none;
+}
+.hyperlinks_design:hover
+{
+    color: #000033;
+}
+.header_bg
+{
+    background-color: #333333;
+}
+.menubardiv
+{
+    background-color: #ffffff;
+}
+
+#mynavbar ul
+{
+    
+    list-style:none;
+}
+
+
+#mynavbar ul li
+{
+    float: left;
+    padding: 10px;
+
+}
+
+#mynavbar ul li a
+{
+    text-decoration: none;
+    color: black;
+    padding: 5px 10px;
+}
+
+#mynavbar ul li a:hover
+{
+    border-bottom: 5px solid skyblue;
+    color: skyblue;
+
+}
+
+
+.gray
+{
+    background-color: gray;
+}
+.black
+{
+    background-color: black;
+}
+
+#footermenubar ul li a
+{
+    color:white;
+}
+.textarea_deisgn
+{
+    padidng: 5px 10px;
+    width: 350px;
+    height: 100px;
+    border-radius: 5px;
+    border: 1px solid gray;
+}
+.textfield_design
+{
+
+    padidng: 5px 10px;
+    width: 350px;
+    border-radius: 5px;
+    border: 1px solid gray;
+}
+.textfield_design:focus
+{
+    background-color:#f2f2f2;
+}
+.job_search_div
+{
+    margin-top: 20px;
+    text-align: center;
+}
+.job_search_div:hover
+{
+
+    box-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+.hyperlinks
+{
+
+    text-decoration: none;
+}
+.display_job_div
+{
+    margin-top:20px;
+    border: 1px solid black;
+}
+.reg_div_design
+{
+    text-align: center;
+    border: 1px solid orange;
+}
+.reglog_tf_design
+{
+    border: 1px solid gray;
+    border-radius: 3px;
+    width: 300px;
+    padding: 4px 10px;
+}
+.reglog_tf_design:focus
+{
+    box-shadow: 0 0 5px rgba(81, 203 ,238, 1);
+}
+.button {
+    display: inline-block;
+    padding: 15px 25px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    border-radius: 50px;
+    background-color: #4CAF50;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+}
+
+.button:hover {background-color: #3e8e41}
+
+.button:active {
+    background-color: #3e8e41;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+}
+.spacing
+{
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 100%;
+}
+.dropdown-menubar{
+}
+.intro-img
+{
+    height: 400px;
+}
+.service-icons
+{
+    text-align: center;
+}
+.service-icons i
+{
+    width: 80px;
+    height: 80px;
+    border: 1px solid #021189;
+    line-height: 80px;
+    border-radius: 50%;
+    font-size: 30px;
+}
+.service-icons i:hover
+{
+    box-shadow: 0px 0px 5px 3px #bababb;
+    cursor: pointer;
+}
+.service-heading
+{
+    margin-top: 50px 0px;
+    text-align: center;
+    font-size: 30px;
+}
+.service-subheading
+{
+    margin-top: 5px;
+}
+.service-subpara p
+{
+    margin-top: 10px;
+    font-size: 16px;
+    color: #707071;
+}
+.contactform-header
+{
+    line-height: 30px;
+}
+.contactform-header h2
+{
+    line-height: 50px;
+    text-decoration: underline;
+}
+
+.liststyle
+{
+    list-style: none;
+}
+.faq
+{
+    font-size: 30px;
+    text-align: center;
+    color: white;
+    padding:10px 10px; 
+    background-color: skyblue;
+    background: rgb(200,203,204);
+    background: linear-gradient(0deg, rgba(200,203,204,1) 0%, rgba(3,160,241,1) 0%, rgba(255,255,252,0.006506826363357865) 100%, rgba(55,59,53,0.9672911400888481) 100%, rgba(79,190,190,1) 100%, rgba(125,101,213,1) 100%, rgba(44,47,47,1) 100%, rgba(80,79,83,1) 100%, rgba(33,36,36,1) 100%, rgba(81,80,84,1) 100%, rgba(244,244,244,1) 100%);
+}
+.fq
+{
+    text-align: center;
+    font-size: 30px;
+    padding:10px 10px;
+    color: black;
+    border-bottom: 1px solid gray;
+}
+.submitreq
+{
+    text-decoration: none;
+    text-align: center;
+}
+
+.ques-style
+{
+    box-shadow: 5px 5px 10px 10px lavender;
+}
+.ques-style:hover
+{
+    box-shadow: 5px 5px 10px 10px skyblue;
+}
+.ques-style:active
+{
+    box-shadow: 5px 5px 10px 10px #ccffcc;
+}
